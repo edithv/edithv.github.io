@@ -1,10 +1,6 @@
 /* FONTS
-font-family: 'Domine', serif;
-font-family: 'Merriweather', serif;
 font-family: 'Playfair Display', serif;
-font-family: 'Tenali Ramakrishna', sans-serif;
-font-family: 'Satisfy', cursive; 
-font-family: 'Lato', sans-serif;*/
+font-family: 'Satisfy', cursive;*/
 
 body 
 {
@@ -59,10 +55,12 @@ body
 #icons 
 {
   color:lightslategray;
+  font-family: 'Playfair Display', serif;
   margin-top: 190px;
 }
 
-.main
+.main 
 {
   margin-top: 190px;
+  font-family: 'Playfair Display', serif;
 }
