@@ -4,5 +4,5 @@
 
 ## About Page
 
-# Projects Page
+## Projects Page
 
