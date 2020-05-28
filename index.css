@@ -9,9 +9,10 @@ font-family: 'Lato', sans-serif;*/
 body 
 {
   text-align: center;
+  font-family: 'Playfair Display', serif;
 }
 .navigation
-{
+{ 
   background-color: white;
 }
 
@@ -46,11 +47,22 @@ body
   border-radius: 50%;
 }
 .fa-google {
-  background: #dd4b39;
+  background: salmon;
   color: white;
 }
 
 .fa-linkedin {
-  background: #007bb5;
+  background: lightsteelblue;
   color: white;
+}
+
+#icons 
+{
+  color:lightslategray;
+  margin-top: 23%;
+}
+
+.main
+{
+  margin-top: 25%;
 }
