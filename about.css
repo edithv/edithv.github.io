@@ -5,7 +5,7 @@ font-family: 'Satisfy', cursive;*/
 body 
 {
   text-align: center;
-  font-family: 'Playfair Display', serif;
+  font-family: 'Satisfy', cursive;
 }
 .navigation
 { 
@@ -56,13 +56,32 @@ body
 {
   color:lightslategray;
   font-family: 'Playfair Display', serif;
-  margin-top: 170px;
+  margin-top: 40px;
 }
 
-.main 
+.about h3
 {
+  margin-top: 25px;
+  font-family: 'Playfair Display', serif;
+
+}
+.about p
+{
+  margin-top: 35px;
+  font-family: 'Playfair Display', serif;
   margin-left: 50px;
   margin-right: 50px;
-  margin-top: 180px;
-  font-family: 'Playfair Display', serif;
 }
+
+.about img
+{
+  width: 230px;
+  height:300px;
+  margin-top: 10px;
+}
+
+.bold
+{
+  color: cornflowerblue;
+}
+
