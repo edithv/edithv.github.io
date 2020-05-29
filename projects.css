@@ -1,0 +1,79 @@
+/* FONTS
+font-family: 'Playfair Display', serif;
+font-family: 'Satisfy', cursive;*/
+
+body 
+{
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+.navigation
+{ 
+  background-color: white;
+}
+
+.navbar-brand 
+{
+  font-family: 'Satisfy', cursive;
+  margin-left: 12px;
+  font-size: 25px;
+}
+
+.navbar-nav 
+{
+  font-family: 'Playfair Display', serif;
+  margin-left: 15px;
+  font-size: 17px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  text-decoration: none;
+  color: white;
+}
+
+.fa
+{
+  padding: 12px;
+  font-size: 15px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-google {
+  background: salmon;
+  color: white;
+}
+
+.fa-linkedin {
+  background: lightsteelblue;
+  color: white;
+}
+
+#icons 
+{
+  color:lightslategray;
+  font-family: 'Playfair Display', serif;
+  margin-top: 170px;
+}
+
+.projects h1 
+{
+  font-family: 'Satisfy', cursive;
+}
+
+.projects h4, h6
+{
+  text-align: left;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.projects p {
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 13px;
+}
